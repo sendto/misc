@@ -1,2 +1,3 @@
 --video processing with params.vdscript on each file in folder C:\virtualdub\sc4
 virtualdub /s"c:\virtualdub\sc4\params.vdscript" /b"C:\virtualdub\sc4","C:\virtualdub\sc6\" /r
+c:\virtualdub>virtualdub /s"c:\virtualdub\sc4\params.vdscript" /b"C:\virtualdub\sc4\season1\","C:\virtualdub\sc6\season1\" /r
